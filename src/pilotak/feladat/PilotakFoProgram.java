@@ -3,6 +3,7 @@ package pilotak.feladat;
 import java.util.ArrayList;
 import java.util.List;
 
+//infojegyzet vizsgafeladat
 public class PilotakFoProgram {
 
 	public static void main(String[] args) {
